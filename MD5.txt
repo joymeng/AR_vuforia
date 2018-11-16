@@ -1,0 +1,13 @@
+﻿服务器资源目录(https://raw.githubusercontent.com/joymeng/AR_vuforia/master/)
+本地资源目录(E:\GitHub\AR_vuforia.git\trunk\)
+
+待更新文件(
+
+AR/vuforia-samples-core-android-7-5-26.zip(6bfd8c3a91228384361119037acc8501)
+AR/vuforia-sdk-android-7-5-26.zip(214ed1832c48bbc5a609db20424ebf7b)
+AR/VuforiaSamples-7-5-26-debug.apk(7deae674b266b618c30ada79cbe3b966)
+AR/vuforia_sdk_20181116_13.58.7z(50c5b062b06fe5b24ffea0edb59e8eb6)
+AR/重命名1.bat(9599cf89046e1191b1626a611a72e7ca)
+AR/重命名2.bat(5e91585d6e59cb514c401ed4e839bfaa)
+
+)待更新文件
